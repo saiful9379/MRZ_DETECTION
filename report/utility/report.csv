@@ -1,0 +1,10 @@
+Image_Name,Have MRZ,Actual Predict,MRZ_Detected,MRZ_Partially_Detected,MRZ_Missing,MRZ_Extra_Detected
+03-02-2023-12-14-081977_phase_1_phase_1_angle_45.png,0,0,0,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_360.png,0,0,1,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_290.png,0,0,0,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_90.png,0,0,0,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_250.png,0,0,0,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_135.png,0,0,0,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_215.png,0,0,0,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_315.png,0,0,0,0,0,0
+03-02-2023-12-14-081977_phase_1_phase_1_angle_180.png,0,0,1,0,0,0
